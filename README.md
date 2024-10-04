@@ -1,1 +1,1 @@
-# -Emotion-Detection-from-Uploaded-Images
+# Emotion-Detection-from-Uploaded-Images
