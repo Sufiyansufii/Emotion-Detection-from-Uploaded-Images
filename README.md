@@ -41,12 +41,18 @@ Comprehensive performance analysis covering the accuracy of different CNN archit
 A detailed report discussing system design, methodology, experimental results, and potential real-world applications.
 Ethical analysis focusing on privacy concerns, data bias, and mitigation strategies.
 # Tools and Technologies
-# Programming Language: Python
-# Frameworks and Libraries: Streamlit, OpenCV, TensorFlow/Keras, Mediapipe, NumPy, PIL
-# Pre-trained Models: DenseNet, ResNet, VGG, MobileNet, EfficientNet 
-# Model :Custom CNN
-# Datasets: FER-2013
-# Development Environment: Local setup, with models and assets stored locally for streamlined performance
+# Programming Language: 
+Python
+# Frameworks and Libraries: 
+Streamlit, OpenCV, TensorFlow/Keras, Mediapipe, NumPy, PIL
+# Pre-trained Models: 
+DenseNet, ResNet, VGG, MobileNet, EfficientNet 
+# Model :
+Custom CNN
+# Datasets: 
+FER-2013
+# Development Environment: 
+Local setup, with models and assets stored locally for streamlined performance
 # Deliverables
 # Streamlit Application:
 A fully functional web application where users can upload images and receive real-time emotion classification.
